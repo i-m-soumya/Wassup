@@ -1,5 +1,7 @@
-# Wassup
-A chat application using angular
+# Wassup - a chat application using angular
+
+![image](https://user-images.githubusercontent.com/33210199/156914495-552f31f6-46f6-4034-bfe9-f5299239d1b6.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
