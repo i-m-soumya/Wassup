@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LeftPanelComponent } from './left-panel/left-panel.component';
 import { RightPanelComponent } from './right-panel/right-panel.component';
+import { SingleChatItemComponent } from './left-panel/single-chat-item/single-chat-item.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LeftPanelComponent,
-    RightPanelComponent
+    RightPanelComponent,
+    SingleChatItemComponent
   ],
   imports: [
     BrowserModule,
