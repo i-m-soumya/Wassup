@@ -1,8 +1,5 @@
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 # Wassup - a chat application using angular
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/i-m-soumya" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Follow @i-m-soumya on GitHub">Follow @i-m-soumya</a>
+
 
 ![image](https://user-images.githubusercontent.com/33210199/157294283-7f4791f2-0562-4c22-a98f-49aaf5b242f7.png)
 
