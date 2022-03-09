@@ -4,7 +4,8 @@
 <a href="https://github.com/i-m-soumya/Wassup/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/i-m-soumya/Wassup"></a>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/i-m-soumya?style=plastic">
 
-# Wassup - a chat application using angular
+# Wassup 
+ A web based chat application frontend using angular
 
 
 ![image](https://user-images.githubusercontent.com/33210199/157294283-7f4791f2-0562-4c22-a98f-49aaf5b242f7.png)
