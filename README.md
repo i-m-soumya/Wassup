@@ -1,3 +1,9 @@
+<a href="https://github.com/i-m-soumya/Wassup/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/i-m-soumya/Wassup?style=plastic"></a>
+<a href="https://github.com/i-m-soumya/Wassup/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/i-m-soumya/Wassup?style=plastic"></a>
+<a href="https://github.com/i-m-soumya/Wassup/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/i-m-soumya/Wassup"></a>
+<a href="https://github.com/i-m-soumya/Wassup/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/i-m-soumya/Wassup"></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/i-m-soumya?style=plastic">
+
 # Wassup - a chat application using angular
 
 
